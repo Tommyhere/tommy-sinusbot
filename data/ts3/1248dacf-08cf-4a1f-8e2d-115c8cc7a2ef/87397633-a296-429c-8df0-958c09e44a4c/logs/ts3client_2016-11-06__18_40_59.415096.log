@@ -1,0 +1,66 @@
+
+
+==================================================================================================================================
+
+2016-11-07 00:40:59.416099|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-07 00:40:59.416099|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-07 00:40:59.416099|INFO    |              |   |Using hardware aes
+2016-11-07 00:40:59.425623|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-07 00:40:59.468237|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-07 00:40:59.668771|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 00:40:59.668771|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 00:40:59.699853|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 153
+2016-11-07 00:40:59.739458|INFO    |Input         |   |Default monitoring enabled
+2016-11-07 00:40:59.755501|INFO    |              |   |*** Time [MAINWINDOW]: 342
+2016-11-07 00:40:59.756003|INFO    |              |   |*** Time [INIT]: 343
+2016-11-07 00:40:59.772045|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-07 00:40:59.772045|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-07 00:41:00.056301|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=bot%20boy&password=&cid=245&channelpassword=
+2016-11-07 00:41:00.056802|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-07 00:41:00.058316|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-07 00:41:00.058316|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-07 00:41:00.140525|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 00:41:00.140525|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 00:41:00.282904|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 00:41:00.282904|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 00:41:00.283405|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-07 00:41:00.385677|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-07 00:41:00.386179|INFO    |              |   |Statistics report: Not yet, next report on Fri Nov 25 13:37:58 2016
+2016-11-07 00:41:00.386179|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-07 00:41:00.518030|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2016-11-07 00:41:00.745635|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-07 00:41:00.748644|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-07 00:41:01.853585|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-07 00:41:01.974403|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-07 00:41:01.980419|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-07 00:41:01.981422|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-07 00:41:02.015513|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-07 00:41:02.016015|INFO    |              |   |No image, refusing to display
+2016-11-07 00:41:02.039577|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.048604|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-07 00:41:02.058627|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-07 00:41:02.098233|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-07 00:41:02.290745|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-07 00:41:02.300270|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.301273|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.302777|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.307289|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.307790|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.308291|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.309796|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.310799|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:41:02.311299|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:50:38.089767|INFO    |ClientUI      |1  |Ignored text message by Oryx: !say nigger
+2016-11-07 00:50:41.882857|INFO    |ClientUI      |1  |Ignored text message by Oryx: !say &quot;nigger&quot;
+2016-11-07 00:50:47.452190|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 00:55:59.750889|INFO    |              |   |Memory usage: 43.02 MiB
+2016-11-07 01:10:59.750074|INFO    |              |   |Memory usage: 39.41 MiB
+2016-11-07 01:11:12.006175|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-07 01:11:12.007178|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2016-11-07 01:11:12.968233|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 01:11:12.968233|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 01:11:14.226092|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 01:11:14.226092|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 01:11:14.376993|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 01:11:14.376993|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 01:11:14.378498|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clearQueue - enter

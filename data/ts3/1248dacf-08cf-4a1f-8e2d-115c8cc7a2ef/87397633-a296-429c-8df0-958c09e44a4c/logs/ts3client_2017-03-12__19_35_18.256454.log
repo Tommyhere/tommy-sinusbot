@@ -1,0 +1,49 @@
+
+
+==================================================================================================================================
+
+2017-03-13 01:35:18.257456|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2017-03-13 01:35:18.257958|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2017-03-13 01:35:18.257958|INFO    |              |   |Using hardware aes
+2017-03-13 01:35:18.298568|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2017-03-13 01:35:18.436432|INFO    |              |   |Loading plugin: sinusbot_plugin
+2017-03-13 01:35:18.754072|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:35:18.754072|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:35:18.801200|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 173
+2017-03-13 01:35:18.885422|INFO    |InputDevices  |   |Input device name: Logic3 Controller (Rock Candy Gamepad for Xbox 360)
+2017-03-13 01:35:18.887426|INFO    |Input         |   |Default monitoring enabled
+2017-03-13 01:35:18.925027|INFO    |              |   |*** Time [MAINWINDOW]: 670
+2017-03-13 01:35:18.926531|INFO    |              |   |*** Time [INIT]: 671
+2017-03-13 01:35:18.989698|INFO    |ClientUI      |   |Qt version: 5.5.1
+2017-03-13 01:35:18.989698|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\ts3\1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef\87397633-a296-429c-8df0-958c09e44a4c\settings.db
+2017-03-13 01:35:19.226564|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=bot%20boy&password=&cid=245&channelpassword=
+2017-03-13 01:35:19.227065|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2017-03-13 01:35:19.229069|INFO    |ClientUI      |1  |Blacklist check ok
+2017-03-13 01:35:19.229571|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2017-03-13 01:35:19.352355|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:35:19.352355|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:35:19.620487|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:35:19.620487|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:35:19.620487|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2017-03-13 01:35:19.758354|INFO    |ClientUI      |   |Last update check was: Tue Jan 1 00:00:01 2019
+2017-03-13 01:35:19.759356|INFO    |              |   |Statistics report: User has not yet confirmed participation
+2017-03-13 01:35:19.916776|INFO    |ClientUI      |1  |Connect status: Connecting
+2017-03-13 01:35:19.935825|DEVELOP |PktHandler    |   |Puzzle solve time: 21
+2017-03-13 01:35:20.178593|INFO    |Newsticker    |   |Newsticker next check: Tue Jan 1 00:00:01 2019
+2017-03-13 01:35:20.252792|INFO    |ClientUI      |1  |Connect status: Connected
+2017-03-13 01:35:20.257804|INFO    |              |   |Failed to read image C:/SinusBot/data/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2017-03-13 01:35:21.786692|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2017-03-13 01:35:21.795720|INFO    |ClientUI      |1  |Connect status: Connection established
+2017-03-13 01:35:21.803738|INFO    |PermManager   |   |Requesting permissions from server
+2017-03-13 01:35:22.045379|INFO    |              |   |Failed to read image C:/SinusBot/data/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2017-03-13 01:35:22.045880|INFO    |              |   |No image, refusing to display
+2017-03-13 01:36:56.073801|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: &quot;TOP20&quot;Radio
+2017-03-13 01:36:58.108858|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Bebe Rexha - I Got You
+2017-03-13 01:36:58.188677|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2017-03-13 01:37:40.602156|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: &quot;TOP20&quot;Radio
+2017-03-13 01:37:49.468634|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Bebe Rexha - I Got You
+2017-03-13 01:37:49.546363|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2017-03-13 01:37:52.421795|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: #PopRadio
+2017-03-13 01:37:54.508165|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Justin Bieber - Company
+2017-03-13 01:38:18.911470|INFO    |ClientUI      |1  |Connect status: Disconnected
+2017-03-13 01:38:18.951577|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

@@ -1,0 +1,82 @@
+
+
+==================================================================================================================================
+
+2016-11-06 23:27:56.552102|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 23:27:56.552603|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 23:27:56.552603|INFO    |              |   |Using hardware aes
+2016-11-06 23:27:56.562630|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 23:27:56.602736|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 23:27:56.870950|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:27:56.870950|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:27:56.907047|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 186
+2016-11-06 23:27:56.949660|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 23:27:56.966204|INFO    |              |   |*** Time [MAINWINDOW]: 416
+2016-11-06 23:27:56.967206|INFO    |              |   |*** Time [INIT]: 418
+2016-11-06 23:27:56.980742|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 23:27:56.980742|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 23:27:57.267509|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=_i%20hate%20niggers&password=&channel=&channelpassword=
+2016-11-06 23:27:57.268007|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-06 23:27:57.269513|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 23:27:57.269513|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-06 23:27:57.378299|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:27:57.378299|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:27:57.519175|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:27:57.519676|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:27:57.519676|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-06 23:27:57.588860|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-06 23:27:57.589863|INFO    |              |   |Statistics report: Not yet, next report on Fri Nov 25 13:37:58 2016
+2016-11-06 23:27:57.589863|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-06 23:27:57.737254|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2016-11-06 23:27:58.036550|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-06 23:27:58.038558|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-06 23:27:58.041063|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 23:27:59.118428|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-06 23:27:59.125948|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-06 23:27:59.126951|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-06 23:27:59.268327|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.270332|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-06 23:27:59.283368|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-06 23:27:59.295900|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 23:27:59.295900|INFO    |              |   |No image, refusing to display
+2016-11-06 23:27:59.471367|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.471868|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.471868|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.472370|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.473378|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.473875|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.474881|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.474881|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.475879|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:27:59.629789|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-06 23:28:21.120460|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 02. Flexicution.mp3
+2016-11-06 23:28:48.025048|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:29:07.381049|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 23:29:09.684663|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:29:14.110956|INFO    |ClientUI      |1  |Ignored text message by Tommy: what do we hate?
+2016-11-06 23:29:14.175632|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: niggers
+2016-11-06 23:29:16.696332|INFO    |ClientUI      |1  |Ignored text message by Tommy: why do we hate them?
+2016-11-06 23:29:16.768524|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: cuz they&apos;re black
+2016-11-06 23:29:20.542563|INFO    |ClientUI      |1  |Ignored text message by Dela: what do we hate?
+2016-11-06 23:29:20.603224|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: niggers
+2016-11-06 23:29:34.180347|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:29:41.416767|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 23:32:00.571522|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 03. The Jam.mp3
+2016-11-06 23:32:12.515794|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:35:59.280192|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 02. Flexicution.mp3
+2016-11-06 23:39:38.698935|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 01. illuminatro.mp3
+2016-11-06 23:40:27.119781|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 07. Super Mario World.mp3
+2016-11-06 23:42:56.953383|INFO    |              |   |Memory usage: 43.50 MiB
+2016-11-06 23:43:25.133848|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 10. Slave.mp3
+2016-11-06 23:43:41.841848|INFO    |ClientUI      |1  |Ignored text message by Tommy: !playing
+2016-11-06 23:43:41.909027|INFO    |ClientUI      |1  |Ignored text message by bot boy: 10. Slave.mp3
+2016-11-06 23:44:25.944235|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-06 23:44:30.751665|INFO    |ClientUI      |1  |Ignored text message by Tommy: !yt [URL]https://www.youtube.com/watch?v=2r2aT9DO3J8[/URL]
+2016-11-06 23:44:46.118043|INFO    |ClientUI      |1  |Ignored text message by Joel is a sex offender: doon coon
+2016-11-06 23:46:25.019142|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 04. Slave II.mp3
+2016-11-06 23:46:43.021529|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-06 23:53:30.805934|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:53:33.322127|INFO    |ClientUI      |1  |Ignored text message by Tommy: !next
+2016-11-06 23:53:34.396485|INFO    |ClientUI      |1  |Ignored text message by Tommy: !playing
+2016-11-06 23:53:57.395165|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-06 23:53:57.396168|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

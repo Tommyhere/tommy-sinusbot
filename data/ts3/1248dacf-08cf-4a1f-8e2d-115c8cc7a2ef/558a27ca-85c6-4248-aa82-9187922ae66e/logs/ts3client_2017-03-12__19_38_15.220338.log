@@ -1,0 +1,21 @@
+
+
+==================================================================================================================================
+
+2017-03-13 01:38:15.220840|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2017-03-13 01:38:15.221341|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2017-03-13 01:38:15.221341|INFO    |              |   |Using hardware aes
+2017-03-13 01:38:15.238887|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2017-03-13 01:38:15.367228|INFO    |              |   |Loading plugin: sinusbot_plugin
+2017-03-13 01:38:15.761573|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:38:15.761573|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:38:15.837273|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 250
+2017-03-13 01:38:18.356132|INFO    |InputDevices  |   |Input device name: Logic3 Controller (Rock Candy Gamepad for Xbox 360)
+2017-03-13 01:38:18.472637|INFO    |Input         |   |Default monitoring enabled
+2017-03-13 01:38:18.472637|INFO    |              |   |*** Time [HOTKEYS]: 146
+2017-03-13 01:38:18.498706|INFO    |              |   |*** Time [MAINWINDOW]: 3281
+2017-03-13 01:38:18.500711|INFO    |              |   |*** Time [INIT]: 3284
+2017-03-13 01:38:18.500711|INFO    |ClientUI      |   |*** Time [SQLITE_CONVERTER]: 721
+2017-03-13 01:38:18.515752|INFO    |ClientUI      |   |Qt version: 5.5.1
+2017-03-13 01:38:18.516252|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\ts3\1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef\558a27ca-85c6-4248-aa82-9187922ae66e\settings.db
+2017-03-13 01:38:18.800676|INFO    |ClientUI      |   |ts3server: ?port=9987&nickname=tommy%20radio%20bot&password=&channel=&channelpassword=

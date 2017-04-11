@@ -1,0 +1,369 @@
+
+
+==================================================================================================================================
+
+2017-03-13 01:39:18.456564|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2017-03-13 01:39:18.456564|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2017-03-13 01:39:18.456564|INFO    |              |   |Using hardware aes
+2017-03-13 01:39:18.475114|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2017-03-13 01:39:18.557332|INFO    |              |   |Loading plugin: sinusbot_plugin
+2017-03-13 01:39:18.868617|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:39:18.868617|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:39:18.902207|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 115
+2017-03-13 01:39:18.953844|INFO    |InputDevices  |   |Input device name: Logic3 Controller (Rock Candy Gamepad for Xbox 360)
+2017-03-13 01:39:18.955347|INFO    |Input         |   |Default monitoring enabled
+2017-03-13 01:39:18.972902|INFO    |              |   |*** Time [MAINWINDOW]: 525
+2017-03-13 01:39:18.974407|INFO    |              |   |*** Time [INIT]: 527
+2017-03-13 01:39:18.988945|INFO    |ClientUI      |   |Qt version: 5.5.1
+2017-03-13 01:39:18.989448|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\ts3\1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef\558a27ca-85c6-4248-aa82-9187922ae66e\settings.db
+2017-03-13 01:39:19.274460|INFO    |ClientUI      |   |ts3server: 104.153.105.2?port=22550&nickname=tommy%20radio%20bot&password=&channel=&channelpassword=
+2017-03-13 01:39:19.274962|INFO    |ClientUI      |1  |Connect to server: 104.153.105.2
+2017-03-13 01:39:19.276967|INFO    |ClientUI      |1  |Blacklist check ok
+2017-03-13 01:39:19.276967|INFO    |ClientUI      |1  |Initiating connection: 104.153.105.2:22550 104.153.105.2
+2017-03-13 01:39:19.708439|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:39:19.708439|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:39:20.123889|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 01:39:20.123889|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 01:39:20.124390|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2017-03-13 01:39:20.902295|INFO    |ClientUI      |   |Last update check was: Tue Jan 1 00:00:01 2019
+2017-03-13 01:39:20.902295|INFO    |ClientUI      |   |Checking for update
+2017-03-13 01:39:20.995540|INFO    |Update        |   |Checking for updates...
+2017-03-13 01:39:21.051190|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2017-03-13 01:39:22.090951|INFO    |Newsticker    |   |Newsticker language change detected
+2017-03-13 01:39:22.091453|INFO    |Newsticker    |   |Newsticker next check: 
+2017-03-13 01:39:22.091453|INFO    |ClientUI      |1  |Connect status: Connecting
+2017-03-13 01:39:22.093959|INFO    |ClientUI      |1  |Connect status: Connected
+2017-03-13 01:39:22.099475|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2017-03-13 01:39:22.111005|INFO    |ClientUI      |1  |Connect status: Connection established
+2017-03-13 01:39:22.111005|INFO    |PermManager   |   |Requesting permissions from server
+2017-03-13 01:39:22.699092|INFO    |Update        |   |Check license version: 1
+2017-03-13 01:39:22.709249|INFO    |LicenseViewer |   |License language: en
+2017-03-13 01:39:22.709249|INFO    |LicenseViewer |   |Requesting remote license for version 1 and language en
+2017-03-13 01:39:23.789390|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 20:09:22 2017, next check in 1800 seconds
+2017-03-13 01:39:23.844038|INFO    |LicenseViewer |   |Downloaded license file for version 1 and language en
+2017-03-13 01:39:33.363029|INFO    |              |   |Statistics report: First run, report later in 1-30 days
+2017-03-13 01:39:33.363029|INFO    |              |   |Statistics report: Setting next report date to: Tue Mar 21 19:39:33 2017
+2017-03-13 01:40:07.199473|INFO    |ClientUI      |1  |Ignored text message by Tommy: ya
+2017-03-13 01:40:13.345905|INFO    |ClientUI      |1  |Ignored text message by Tommy: im configurin it right now
+2017-03-13 01:40:15.917938|INFO    |ClientUI      |1  |Ignored text message by Tommy: gonna make it all fancy
+2017-03-13 01:40:24.584502|INFO    |ClientUI      |1  |Ignored text message by Dunkersplay: How to make Radio bot?
+                                                       
+2017-03-13 01:45:44.126243|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: undefined
+2017-03-13 01:45:52.654277|INFO    |ClientUI      |1  |Ignored text message by Tommy: !roll
+2017-03-13 01:45:53.737056|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2017-03-13 01:45:53.807541|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: Tommy rolled a 11 out of 20!
+2017-03-13 01:46:03.310167|INFO    |ClientUI      |1  |Ignored text message by Tommy: !skip
+2017-03-13 01:46:03.382935|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot:  -- Vote has passed, skipping... -- 
+2017-03-13 01:47:07.366088|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin #Pophits
+2017-03-13 01:47:09.451521|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Naughty Boy - La La La Feat Sam Smith
+2017-03-13 01:47:40.395857|INFO    |ClientUI      |1  |Ignored text message by Tommy: suh dude
+2017-03-13 01:47:44.337345|INFO    |ClientUI      |1  |Ignored text message by ralph: suh
+2017-03-13 01:47:49.944763|INFO    |ClientUI      |1  |Ignored text message by Tommy: im seeing if my bot works
+2017-03-13 01:47:51.725082|INFO    |ClientUI      |1  |Ignored text message by ralph: im just here for music
+2017-03-13 01:47:52.585693|INFO    |ClientUI      |1  |Ignored text message by ralph: oh
+2017-03-13 01:47:58.593718|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin #Pophits
+2017-03-13 01:48:00.643790|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Naughty Boy - La La La Feat Sam Smith
+2017-03-13 01:48:04.868269|INFO    |ClientUI      |1  |Ignored text message by Tommy: it kind of is
+2017-03-13 01:48:39.785062|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin #PopRadio
+2017-03-13 01:48:46.281494|INFO    |ClientUI      |1  |Ignored text message by Tommy: thats a weird song
+2017-03-13 01:49:11.849379|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 01:49:23.110012|INFO    |ClientUI      |1  |Ignored text message by ralph: lol
+2017-03-13 01:49:30.463503|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin #Pophits
+2017-03-13 01:49:34.392305|INFO    |ClientUI      |1  |Ignored text message by Tommy: wtf
+2017-03-13 01:49:37.409238|INFO    |ClientUI      |1  |Ignored text message by ralph: wtf
+2017-03-13 01:49:40.737925|INFO    |ClientUI      |1  |Ignored text message by ralph: auto zone
+2017-03-13 01:49:42.158720|INFO    |ClientUI      |1  |Ignored text message by Tommy: im trying 2
+2017-03-13 01:49:43.987852|INFO    |ClientUI      |1  |Ignored text message by Tommy: change radio stations
+2017-03-13 01:49:54.916121|INFO    |ClientUI      |1  |Ignored text message by Tommy: all of them have
+2017-03-13 01:49:55.646383|INFO    |ClientUI      |1  |Ignored text message by Tommy: autozone
+2017-03-13 01:49:59.532812|INFO    |ClientUI      |1  |Ignored text message by ralph: autozone
+2017-03-13 01:50:21.749441|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 01:50:26.724720|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2017-03-13 01:50:26.805172|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: Tommy rolled a 7 out of 20!
+2017-03-13 01:50:35.439060|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin #PopRadio
+2017-03-13 01:50:39.153762|INFO    |ClientUI      |1  |Ignored text message by Tommy: fuck off autoozne
+2017-03-13 01:51:00.484856|INFO    |ClientUI      |1  |Ignored text message by Tommy: im about to
+2017-03-13 01:51:02.171529|INFO    |ClientUI      |1  |Ignored text message by Tommy: download
+2017-03-13 01:51:02.803274|INFO    |ClientUI      |1  |Ignored text message by Tommy: like
+2017-03-13 01:51:04.317663|INFO    |ClientUI      |1  |Ignored text message by Tommy: 500 songs
+2017-03-13 01:51:06.395185|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Eagles - Hotel California
+2017-03-13 01:51:08.139817|INFO    |ClientUI      |1  |Ignored text message by Tommy: rather than using a station
+2017-03-13 01:51:10.477342|INFO    |ClientUI      |1  |Ignored text message by Tommy: oh well this works
+2017-03-13 01:51:37.773564|INFO    |ClientUI      |1  |Ignored text message by autozone: this is lit
+2017-03-13 01:51:45.427996|INFO    |ClientUI      |1  |Ignored text message by Tommy: o shit wadap
+2017-03-13 01:54:01.814216|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2017-03-13 01:54:01.888117|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: Tommy rolled a 12 out of 20!
+2017-03-13 01:54:18.963182|INFO    |              |   |Memory usage: 46.86 MiB
+2017-03-13 01:56:26.431564|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Jingle - C - Jingle - C
+2017-03-13 01:56:30.394113|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot: suh dudes, we now playin Meghan Trainor - Dear Future Husband
+2017-03-13 01:56:37.596290|INFO    |ClientUI      |1  |Ignored text message by Tommy: o shit
+2017-03-13 01:56:39.339162|INFO    |ClientUI      |1  |Ignored text message by Tommy: dis song p good
+2017-03-13 01:57:14.395258|INFO    |ClientUI      |1  |Ignored text message by ralph: yeh
+2017-03-13 01:57:51.895933|INFO    |ClientUI      |1  |Ignored text message by Tommy: want 2 listen 2 anything else or do u want pop
+2017-03-13 01:59:07.276732|INFO    |ClientUI      |1  |Ignored text message by ralph: im down for anything
+2017-03-13 01:59:13.001352|INFO    |ClientUI      |1  |Ignored text message by Tommy: im down 4 anything also
+2017-03-13 01:59:31.408546|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin PopRadio - News Now
+2017-03-13 01:59:35.429467|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin News - US - 03-12-2017
+2017-03-13 01:59:38.886832|INFO    |ClientUI      |1  |Ignored text message by Tommy: news
+2017-03-13 01:59:40.089046|INFO    |ClientUI      |1  |Ignored text message by Tommy: wat he fuck
+2017-03-13 01:59:41.608717|INFO    |ClientUI      |1  |Ignored text message by ralph: news
+2017-03-13 01:59:43.653749|INFO    |ClientUI      |1  |Ignored text message by Tommy: BERNIE SANDERS
+2017-03-13 01:59:44.677673|INFO    |ClientUI      |1  |Ignored text message by ralph: bernie sanders
+2017-03-13 01:59:44.927614|INFO    |ClientUI      |1  |Ignored text message by Tommy: i know him
+2017-03-13 01:59:47.163775|INFO    |ClientUI      |1  |Ignored text message by ralph: nigge
+2017-03-13 01:59:48.210454|INFO    |ClientUI      |1  |Ignored text message by ralph: sanders
+2017-03-13 01:59:49.632359|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin 02. Flexicution.mp3
+2017-03-13 01:59:53.549810|INFO    |ClientUI      |1  |Ignored text message by Tommy: im going 2 my rap station
+2017-03-13 02:00:07.167964|INFO    |ClientUI      |1  |Ignored text message by no health care: s q u a d
+2017-03-13 02:02:04.067621|INFO    |ClientUI      |1  |Ignored text message by s q u a d: damn jap
+2017-03-13 02:02:14.017138|INFO    |ClientUI      |1  |Ignored text message by Tommy: i hate japs
+2017-03-13 02:02:17.083131|INFO    |ClientUI      |1  |Ignored text message by r a l p h: same
+2017-03-13 02:02:24.960299|INFO    |ClientUI      |1  |Ignored text message by Tommy: do u know how 2 get into the city from the sewers
+2017-03-13 02:02:32.596611|INFO    |ClientUI      |1  |Ignored text message by r a l p h: use magic
+2017-03-13 02:02:37.573329|INFO    |ClientUI      |1  |Ignored text message by Tommy: suhh dudes
+2017-03-13 02:02:53.063371|INFO    |ClientUI      |1  |Ignored text message by Bobinater: Anyone hear of there ever being a tailor?
+2017-03-13 02:03:10.369854|INFO    |ClientUI      |1  |Ignored text message by Tommy: there wasnt any in the old server
+2017-03-13 02:03:13.189534|INFO    |ClientUI      |1  |Ignored text message by Tommy: idk about the new 1
+2017-03-13 02:03:20.269894|INFO    |ClientUI      |1  |Ignored text message by FreeFlow: be nice ralph
+2017-03-13 02:03:23.864855|INFO    |ClientUI      |1  |Ignored text message by Tommy: nah i dont care
+2017-03-13 02:03:26.214041|INFO    |ClientUI      |1  |Ignored text message by Tommy: all r free to join
+2017-03-13 02:03:27.321944|INFO    |ClientUI      |1  |Ignored text message by Tommy: i love all
+2017-03-13 02:03:29.059859|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 03. The Jam.mp3
+2017-03-13 02:03:30.969844|INFO    |ClientUI      |1  |Ignored text message by FreeFlow: &lt;3 Tommy
+2017-03-13 02:03:35.011258|INFO    |ClientUI      |1  |Ignored text message by r a l p h: og
+2017-03-13 02:03:42.359857|INFO    |ClientUI      |1  |Ignored text message by Tommy: wat 2 fuck u mean
+2017-03-13 02:03:44.098211|INFO    |ClientUI      |1  |Ignored text message by Tommy: u aint now my name
+2017-03-13 02:04:19.818947|INFO    |ClientUI      |1  |Ignored text message by Tommy: i feel like the map would be 10x better if i downloaded all the content
+2017-03-13 02:04:27.295582|INFO    |ClientUI      |1  |Ignored text message by r a l p h: proly
+2017-03-13 02:04:47.105854|INFO    |ClientUI      |1  |Ignored text message by Bobinater: Anyone want to come on and hand tailor me a suit
+2017-03-13 02:07:27.746384|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 02. Flexicution.mp3
+2017-03-13 02:07:33.392363|INFO    |ClientUI      |1  |Ignored text message by Tommy: hey i just listened to this
+2017-03-13 02:07:33.751888|INFO    |ClientUI      |1  |Ignored text message by r a l p h: we just played dis
+2017-03-13 02:07:34.745269|INFO    |ClientUI      |1  |Ignored text message by Tommy: !skip
+2017-03-13 02:07:37.115794|INFO    |ClientUI      |1  |Ignored text message by Tommy: os hit i broke ti
+2017-03-13 02:07:38.556173|INFO    |ClientUI      |1  |Ignored text message by r a l p h: !skip
+2017-03-13 02:07:40.461985|INFO    |ClientUI      |1  |Ignored text message by r a l p h: !ski p
+2017-03-13 02:07:41.177333|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 01. illuminatro.mp3
+2017-03-13 02:07:41.688701|INFO    |ClientUI      |1  |Ignored text message by r a l p h: !skip
+2017-03-13 02:07:44.059135|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 07. Super Mario World.mp3
+2017-03-13 02:07:48.836200|INFO    |ClientUI      |1  |Ignored text message by r a l p h: lit
+2017-03-13 02:07:54.500611|INFO    |ClientUI      |1  |Ignored text message by Nicksx: super mario
+2017-03-13 02:08:04.085015|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): undefined
+2017-03-13 02:08:07.887654|INFO    |ClientUI      |1  |Ignored text message by Tommy: fixed the skipper
+2017-03-13 02:09:18.963317|INFO    |              |   |Memory usage: 40.21 MiB
+2017-03-13 02:09:23.870415|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 20:09:22 2017
+2017-03-13 02:09:24.428866|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 20:39:24 2017, next check in 1800 seconds
+2017-03-13 02:10:42.047757|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 10. Slave.mp3
+2017-03-13 02:13:42.063483|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin 04. Slave II.mp3
+2017-03-13 02:13:48.886697|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin G-Eazy - Me, Myself &amp; I (feat. Bebe Rexha)
+2017-03-13 02:15:09.687731|INFO    |ClientUI      |1  |Ignored text message by Nicksx: fuck me dunkers started rapping i&apos;ll stay here
+2017-03-13 02:15:13.760460|INFO    |ClientUI      |1  |Ignored text message by Tommy: lmao
+2017-03-13 02:17:10.408418|INFO    |ClientUI      |1  |Ignored text message by Tommy: suh
+2017-03-13 02:17:17.847136|INFO    |ClientUI      |1  |Ignored text message by Tommy: its a sucrets
+2017-03-13 02:17:28.169842|INFO    |ClientUI      |1  |Ignored text message by Tommy: its a
+2017-03-13 02:17:46.563931|INFO    |ClientUI      |1  |Ignored text message by Tommy: its a [url=http://i.imgur.com/r9OlxsY.png]sucrets[/url]
+2017-03-13 02:18:44.279421|INFO    |ClientUI      |1  |Ignored text message by Tommy: hey
+2017-03-13 02:18:45.394325|INFO    |ClientUI      |1  |Ignored text message by Tommy: music bot
+2017-03-13 02:18:46.028273|INFO    |ClientUI      |1  |Ignored text message by Tommy: wake up
+2017-03-13 02:18:53.926092|INFO    |ClientUI      |1  |Ignored text message by Nicksx: it died
+2017-03-13 02:18:55.071247|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin G-Eazy - Some Kind Of Drug (feat. Marc E. Bassy)
+2017-03-13 02:23:01.813890|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 02:23:02.910526|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (rap radio): suh dudes, we now playin #Pophits
+2017-03-13 02:23:08.642232|INFO    |ClientUI      |1  |Ignored text message by Tommy: give it 1 second
+2017-03-13 02:23:33.870302|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Little Mix - Touch
+2017-03-13 02:24:18.964066|INFO    |              |   |Memory usage: 40.54 MiB
+2017-03-13 02:25:35.910798|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Galantis - Runaway (U&amp;I)
+2017-03-13 02:26:40.701876|INFO    |ClientUI      |1  |Ignored text message by Pops: iiiiiii
+2017-03-13 02:27:01.114143|INFO    |ClientUI      |1  |Ignored text message by Pops: Wow this really is a musical channel
+2017-03-13 02:27:04.836035|INFO    |ClientUI      |1  |Ignored text message by Pops: And good music
+2017-03-13 02:27:08.240584|INFO    |ClientUI      |1  |Ignored text message by Pops: nice job tommy
+2017-03-13 02:27:30.420659|INFO    |ClientUI      |1  |Ignored text message by Tommy: ty ty
+2017-03-13 02:27:36.953295|INFO    |ClientUI      |1  |Ignored text message by Tommy: i had rap playing earlier but i got bored of ti
+2017-03-13 02:29:13.817673|INFO    |ClientUI      |1  |Ignored text message by Pops: So are you still enlisted or did you leave the military entirely?
+2017-03-13 02:29:19.891816|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Madcon - Don
+2017-03-13 02:29:29.471186|INFO    |ClientUI      |1  |Ignored text message by Tommy: im enlisted
+2017-03-13 02:29:35.579270|INFO    |ClientUI      |1  |Ignored text message by Tommy: i didnt have a bachelors so i couldnt get a commision
+2017-03-13 02:29:47.932649|INFO    |ClientUI      |1  |Ignored text message by Tommy: commission*
+2017-03-13 02:30:15.257986|INFO    |ClientUI      |1  |Ignored text message by Pops: Can I rename the channel to Tommy&apos;s Radio 102.1?
+2017-03-13 02:30:50.549859|INFO    |ClientUI      |1  |Ignored text message by Pops: xD
+2017-03-13 02:31:10.611395|INFO    |ClientUI      |1  |Ignored text message by Tommy: ya feel free
+2017-03-13 02:32:52.887567|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin #Pophits
+2017-03-13 02:33:48.784127|INFO    |ClientUI      |1  |Ignored text message by Tommy: shut up adveritsment
+2017-03-13 02:34:53.910104|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 02:34:56.906989|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin The Weeknd - Party Monster
+2017-03-13 02:35:08.226786|INFO    |ClientUI      |1  |Ignored text message by Pops: ooh dang
+2017-03-13 02:35:11.537240|INFO    |ClientUI      |1  |Ignored text message by Pops: Good song
+2017-03-13 02:35:16.799821|INFO    |ClientUI      |1  |Ignored text message by Tommy: yee
+2017-03-13 02:35:54.679030|INFO    |ClientUI      |1  |Ignored text message by Pops: So do you have a seperate computer set up on here as a bot using YouTube or something?
+2017-03-13 02:37:49.046654|INFO    |ClientUI      |1  |Ignored text message by Pops: Did you just die ingame?
+2017-03-13 02:37:49.802662|INFO    |ClientUI      |1  |Ignored text message by Pops: xD
+2017-03-13 02:37:54.945165|INFO    |ClientUI      |1  |Ignored text message by Tommy: ya
+2017-03-13 02:38:01.176421|INFO    |ClientUI      |1  |Ignored text message by Tommy: i have two teamspeak clients open
+2017-03-13 02:38:07.857760|INFO    |ClientUI      |1  |Ignored text message by Pops: oh
+2017-03-13 02:38:10.053033|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): its on the same pc
+2017-03-13 02:38:16.486456|INFO    |ClientUI      |1  |Ignored text message by Tommy: i have a bot program
+2017-03-13 02:39:05.915436|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Jon Bellion - All Time Low
+2017-03-13 02:39:10.182128|INFO    |ClientUI      |1  |Ignored text message by Pops: OH SHOOT
+2017-03-13 02:39:13.572722|INFO    |ClientUI      |1  |Ignored text message by Pops: REALLY GOOD SONG
+2017-03-13 02:39:18.501450|INFO    |ClientUI      |1  |Ignored text message by Tommy: is a goo 1
+2017-03-13 02:39:18.963875|INFO    |              |   |Memory usage: 41.05 MiB
+2017-03-13 02:39:24.418155|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 20:39:24 2017
+2017-03-13 02:39:25.031787|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 21:09:24 2017, next check in 1800 seconds
+2017-03-13 02:39:52.227488|INFO    |ClientUI      |1  |Ignored text message by Pops: I turned the codec to Opus Music and put the quality all the way up xD
+2017-03-13 02:42:38.908745|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Zedd - Beautiful Now (feat. Jon Bellion)
+2017-03-13 02:46:15.882147|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin #Pophits
+2017-03-13 02:52:04.898705|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Rihanna - Love On The Brain
+2017-03-13 02:53:59.319554|INFO    |ClientUI      |1  |Ignored text message by Pops: tommy
+2017-03-13 02:54:18.963297|INFO    |              |   |Memory usage: 40.50 MiB
+2017-03-13 02:54:22.802828|INFO    |ClientUI      |1  |Ignored text message by Tommy: suh
+2017-03-13 02:54:26.638564|INFO    |ClientUI      |1  |Ignored text message by Pops: Can you play That&apos;s What I Like by Bruno Mars?
+2017-03-13 02:54:32.063071|INFO    |ClientUI      |1  |Ignored text message by Tommy: uh
+2017-03-13 02:55:01.048830|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): undefined
+2017-03-13 02:55:05.146310|INFO    |ClientUI      |1  |Ignored text message by Tommy: i can try
+2017-03-13 02:55:19.620007|INFO    |ClientUI      |1  |Ignored text message by Pops: ok lol thank you
+2017-03-13 02:55:32.524483|INFO    |ClientUI      |1  |Ignored text message by Tommy: lemme try
+2017-03-13 02:55:48.495035|INFO    |ClientUI      |1  |Ignored text message by Tommy: !youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 02:55:48.875372|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Jack Ü - Where Are U Now ft Justin Bieber
+2017-03-13 02:55:53.329522|INFO    |ClientUI      |1  |Ignored text message by Tommy: youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 02:55:57.758039|INFO    |ClientUI      |1  |Ignored text message by Tommy: !youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 02:55:59.204206|INFO    |ClientUI      |1  |Ignored text message by Tommy: youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 02:56:06.394698|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): undefined
+2017-03-13 02:56:09.487566|INFO    |ClientUI      |1  |Ignored text message by Tommy: !youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 02:56:09.853763|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): Search failed (Bad request)
+2017-03-13 02:56:12.387198|INFO    |ClientUI      |1  |Ignored text message by Tommy: wat
+2017-03-13 02:59:53.907971|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin MAGIC! - rude
+2017-03-13 03:00:09.186195|INFO    |ClientUI      |1  |Ignored text message by Pops: !youtube [URL]https://www.youtube.com/watch?v=PMivT7MJ41M[/URL]
+2017-03-13 03:00:09.341439|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): Search failed (Bad request)
+2017-03-13 03:00:34.445177|INFO    |ClientUI      |1  |Ignored text message by Tommy: i need an api key to do it
+2017-03-13 03:00:37.785465|INFO    |ClientUI      |1  |Ignored text message by Pops: !youtube &quot;https://www.youtube.com/watch?v=PMivT7MJ41M&quot;
+2017-03-13 03:00:37.937608|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): Search failed (Bad request)
+2017-03-13 03:00:48.750367|INFO    |ClientUI      |1  |Ignored text message by Pops: An api key?
+2017-03-13 03:01:10.934457|INFO    |ClientUI      |1  |Ignored text message by Tommy: ya
+2017-03-13 03:01:12.814125|INFO    |ClientUI      |1  |Ignored text message by Tommy: like a google api
+2017-03-13 03:01:18.179298|INFO    |ClientUI      |1  |Ignored text message by Pops: what&apos;s that?
+2017-03-13 03:01:26.020572|INFO    |ClientUI      |1  |Ignored text message by Tommy: [URL]https://console.developers.google.com/project[/URL]
+2017-03-13 03:03:37.889066|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 03:05:35.908278|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 03:05:38.913009|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Ariana Grande - Everyday
+2017-03-13 03:06:08.135725|INFO    |ClientUI      |1  |Ignored text message by Tommy: i was thinking of re-applying for staff next weekend but i still dont think any1 knows me
+2017-03-13 03:07:51.383476|INFO    |ClientUI      |1  |Ignored text message by Pops: Haven&apos;t you been around longer than Kyleff? xD
+2017-03-13 03:08:04.397222|INFO    |ClientUI      |1  |Ignored text message by Tommy: nah, kyleff met lemons on the darkrp they were on
+2017-03-13 03:08:13.069183|INFO    |ClientUI      |1  |Ignored text message by Tommy: and then they made an hl2rp together
+2017-03-13 03:08:20.641706|INFO    |ClientUI      |1  |Ignored text message by Tommy: no clue when frostic came in
+2017-03-13 03:08:29.678268|INFO    |ClientUI      |1  |Ignored text message by Pops: Frostic said 2013 I think
+2017-03-13 03:08:33.668624|INFO    |ClientUI      |1  |Ignored text message by Tommy: but the big trio was there before me, i joined about 2 weeks in
+2017-03-13 03:08:47.222401|INFO    |ClientUI      |1  |Ignored text message by Pops: How bad was Dust actually?
+2017-03-13 03:08:49.887704|INFO    |ClientUI      |1  |Ignored text message by Tommy: frostic doesn&apos;t like me since i ended up getting him demoted to user for immaturity and disrespect
+2017-03-13 03:08:53.913717|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Dua Lipa - Blow Your Mind (Mwah)
+2017-03-13 03:08:59.838977|INFO    |ClientUI      |1  |Ignored text message by Tommy: i joined like the day after dust got demoted
+2017-03-13 03:09:18.963061|INFO    |              |   |Memory usage: 39.75 MiB
+2017-03-13 03:09:21.026922|INFO    |ClientUI      |1  |Ignored text message by Tommy: but from what i was told he was like frostic
+2017-03-13 03:09:25.026347|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 21:09:24 2017
+2017-03-13 03:09:25.793224|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 21:39:25 2017, next check in 1800 seconds
+2017-03-13 03:09:31.925033|INFO    |ClientUI      |1  |Ignored text message by Tommy: once his mind was set, it was set, and you couldnt change it
+2017-03-13 03:09:39.924082|INFO    |ClientUI      |1  |Ignored text message by Tommy: and he&apos;d flame the fuck out of you if you said anything otherwise
+2017-03-13 03:09:47.639237|INFO    |ClientUI      |1  |Ignored text message by Tommy: but the difference was that dust was 18
+2017-03-13 03:10:03.052976|INFO    |ClientUI      |1  |Ignored text message by Pops: Frostic is 14 lol
+2017-03-13 03:10:07.530425|INFO    |ClientUI      |1  |Ignored text message by Tommy: frostic at least has an excuse for his actions because of his age
+2017-03-13 03:10:39.065441|INFO    |ClientUI      |1  |Ignored text message by Pops: I never got to meet Dust
+2017-03-13 03:10:41.973050|INFO    |ClientUI      |1  |Ignored text message by Tommy: but noone really knows me anymore
+2017-03-13 03:10:51.239768|INFO    |ClientUI      |1  |Ignored text message by Pops: You know I never knew you either
+2017-03-13 03:11:00.437773|INFO    |ClientUI      |1  |Ignored text message by Pops: But I knew you were chill from the other oldies
+2017-03-13 03:11:04.548595|INFO    |ClientUI      |1  |Ignored text message by Tommy: i left about a week before august 1st
+2017-03-13 03:11:12.396232|INFO    |ClientUI      |1  |Ignored text message by Tommy: im the chillest my dude
+2017-03-13 03:11:28.591356|INFO    |ClientUI      |1  |Ignored text message by Tommy: nothing upsets me anymore but before i was little edgy when it came to things i was completely against
+2017-03-13 03:11:47.516134|INFO    |ClientUI      |1  |Ignored text message by Tommy: like if someone was completely in the wrong but wouldn&apos;t be able to see why
+2017-03-13 03:11:48.882544|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Imagine Dragons - demonds
+2017-03-13 03:12:03.570155|INFO    |ClientUI      |1  |Ignored text message by Tommy: i&apos;d be aggressive with them and then be a little disrespectful when they came around to seeing where they went wrong
+2017-03-13 03:12:31.900333|INFO    |ClientUI      |1  |Ignored text message by Tommy: but i think the military kinda kicked that outta me
+2017-03-13 03:12:56.790676|INFO    |ClientUI      |1  |Ignored text message by Tommy: i&apos;ve still got a limit but it&apos;s a lot higher than it used to be when it comes to stupidity and people whining
+2017-03-13 03:14:42.875675|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Bastille - Pompeii
+2017-03-13 03:18:12.874115|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 03:20:13.949646|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Kygo - It Ain
+2017-03-13 03:23:53.977571|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Sam Smith - I
+2017-03-13 03:24:18.963238|INFO    |              |   |Memory usage: 40.30 MiB
+2017-03-13 03:27:48.927842|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Adele - Someone Like You
+2017-03-13 03:32:15.930001|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 03:34:15.929518|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 03:34:19.950352|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin ZAYN &amp; Taylor Swift - I Don
+2017-03-13 03:38:24.930530|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Clean Bandit - Rockabye
+2017-03-13 03:38:32.178529|INFO    |ClientUI      |1  |Ignored text message by Tommy: o
+2017-03-13 03:38:33.934758|INFO    |ClientUI      |1  |Ignored text message by Tommy: i luh dis song
+2017-03-13 03:39:18.964231|INFO    |              |   |Memory usage: 48.60 MiB
+2017-03-13 03:39:25.793138|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 21:39:25 2017
+2017-03-13 03:39:26.395688|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 22:09:25 2017, next check in 1800 seconds
+2017-03-13 03:41:51.037655|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Capital Cities - Safe And Sound
+2017-03-13 03:42:42.459120|INFO    |ClientUI      |1  |Ignored text message by PilotBland: what
+2017-03-13 03:42:52.858665|INFO    |ClientUI      |1  |Ignored text message by Spade: good music
+2017-03-13 03:43:05.475220|INFO    |ClientUI      |1  |Ignored text message by Spade: congrats on mod 2
+2017-03-13 03:44:13.189181|INFO    |ClientUI      |1  |Ignored text message by Tommy: ty ty
+2017-03-13 03:44:21.744887|INFO    |ClientUI      |1  |Ignored text message by Blade: pilot not u
+2017-03-13 03:44:25.881672|INFO    |ClientUI      |1  |Ignored text message by Tommy: o
+2017-03-13 03:44:32.116599|INFO    |ClientUI      |1  |Ignored text message by Blade: unless you got mod 2
+2017-03-13 03:44:34.984083|INFO    |ClientUI      |1  |Ignored text message by Blade: then congrats
+2017-03-13 03:44:36.673912|INFO    |ClientUI      |1  |Ignored text message by Tommy: no i meant 2 d music
+2017-03-13 03:44:39.198576|INFO    |ClientUI      |1  |Ignored text message by Blade: oh
+2017-03-13 03:44:40.153600|INFO    |ClientUI      |1  |Ignored text message by Blade: yeah
+2017-03-13 03:45:00.580303|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Ed Sheeran - Shape of You
+2017-03-13 03:45:04.581967|INFO    |ClientUI      |1  |Ignored text message by Tommy: dis a goo song
+2017-03-13 03:45:26.877548|INFO    |ClientUI      |1  |Ignored text message by Blade: yis
+2017-03-13 03:48:06.109630|INFO    |ClientUI      |1  |Ignored text message by PilotBland: oh ok
+2017-03-13 03:48:08.222776|INFO    |ClientUI      |1  |Ignored text message by PilotBland: lmao
+2017-03-13 03:48:48.705548|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 03:50:48.696456|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 03:50:52.652394|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Maroon 5 - Cold
+2017-03-13 03:52:47.851307|INFO    |ClientUI      |1  |Ignored text message by PilotBland: fucking beaned
+2017-03-13 03:52:51.098051|INFO    |ClientUI      |1  |Ignored text message by PilotBland: lmao he says donate
+2017-03-13 03:52:53.597087|INFO    |ClientUI      |1  |Ignored text message by PilotBland: what a cuck
+2017-03-13 03:53:27.104917|INFO    |ClientUI      |1  |Ignored text message by Tommy:  have no $
+2017-03-13 03:54:18.963106|INFO    |              |   |Memory usage: 51.18 MiB
+2017-03-13 03:54:45.048868|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 03:54:48.989406|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Disclosure - Magnets Ft. Lorde
+2017-03-13 03:55:00.008689|INFO    |ClientUI      |1  |Ignored text message by PilotBland: foook thAT
+2017-03-13 03:55:07.186034|INFO    |ClientUI      |1  |Ignored text message by PilotBland: kyleff just jewed you tommy
+2017-03-13 03:55:13.696459|INFO    |ClientUI      |1  |Ignored text message by PilotBland: now you gotta be SA just to get it
+2017-03-13 03:55:23.034592|INFO    |ClientUI      |1  |Ignored text message by PilotBland: dw tommy if i ever become SA you&apos;re getting your radio room
+2017-03-13 03:55:27.146630|INFO    |ClientUI      |1  |Ignored text message by PilotBland: no matter how long it&apos;ll take
+2017-03-13 03:58:08.220437|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin David Guetta - Sam Martin - Dangerous
+2017-03-13 04:01:27.232046|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Bebe Rexha - I Got You
+2017-03-13 04:04:35.206733|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin #Pophits
+2017-03-13 04:06:36.237356|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 04:06:37.178856|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Sia - Fire Meet Gasoline
+2017-03-13 04:09:18.963554|INFO    |              |   |Memory usage: 51.04 MiB
+2017-03-13 04:09:26.402371|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 22:09:25 2017
+2017-03-13 04:09:27.010488|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 22:39:26 2017, next check in 1800 seconds
+2017-03-13 04:10:38.193625|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin DJ Snake - you know you like it
+2017-03-13 04:14:43.169952|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin The Weeknd - Party Monster
+2017-03-13 04:18:49.309099|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin #Pophits
+2017-03-13 04:20:50.319604|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 04:20:53.337478|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Katy Perry - Chained to the Rhythm
+2017-03-13 04:24:18.963353|INFO    |              |   |Memory usage: 51.24 MiB
+2017-03-13 04:24:51.468182|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Jess Glynne - Hold My Hand
+2017-03-13 04:28:32.855061|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Martin Garrix - Tiësto - The Only Way Is Up
+2017-03-13 04:28:44.001691|INFO    |ClientUI      |1  |Ignored text message by Pops: Tommy
+2017-03-13 04:28:49.150228|INFO    |ClientUI      |1  |Ignored text message by Pops: Where did your channel go?
+2017-03-13 04:33:24.038997|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 04:35:22.063965|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 04:35:25.058509|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Jon Bellion - All Time Low
+2017-03-13 04:39:02.074108|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Taylor Swift - Style
+2017-03-13 04:39:18.963579|INFO    |              |   |Memory usage: 49.09 MiB
+2017-03-13 04:39:27.010998|INFO    |Newsticker    |   |Newsticker next check: Sun Mar 12 22:39:26 2017
+2017-03-13 04:39:27.717733|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Mar 12 23:09:27 2017, next check in 1800 seconds
+2017-03-13 04:42:46.168598|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Felix Jaehn - Ain
+2017-03-13 04:45:48.456454|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Targetspot - TargetSpot
+2017-03-13 04:47:48.460298|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Radionomy - Jingle Pub 08
+2017-03-13 04:47:52.474815|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Ellie Goulding - Don
+2017-03-13 04:51:25.531466|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Avicii - The Nights
+2017-03-13 04:54:16.531288|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Rihanna - Work (Feat. Drake)
+2017-03-13 04:54:18.963733|INFO    |              |   |Memory usage: 49.71 MiB
+2017-03-13 04:57:53.675098|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Dua Lipa - Blow Your Mind (Mwah)
+2017-03-13 05:00:47.851356|INFO    |ClientUI      |1  |Ignored text message by tommy radio bot (pop radio): suh dudes, we now playin Kygo - It Ain
+2017-03-13 05:02:04.154642|INFO    |ClientUI      |1  |Connect status: Disconnected
+2017-03-13 05:02:04.222721|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2017-03-13 05:02:05.022004|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 05:02:05.022476|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 05:02:06.414218|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 05:02:06.414218|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 05:02:06.564725|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2017-03-13 05:02:06.564725|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2017-03-13 05:02:06.658057|DEVELOP |Windows Audio Session|   |DeviceDeleteList::clearQueue - enter

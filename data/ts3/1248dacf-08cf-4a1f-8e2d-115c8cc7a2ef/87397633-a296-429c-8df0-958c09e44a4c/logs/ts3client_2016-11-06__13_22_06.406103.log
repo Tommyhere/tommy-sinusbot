@@ -1,0 +1,46 @@
+
+
+==================================================================================================================================
+
+2016-11-06 19:22:06.406605|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 19:22:06.406605|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 19:22:06.406605|INFO    |              |   |Using hardware aes
+2016-11-06 19:22:06.416631|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 19:22:06.482807|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 19:22:06.774127|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:22:06.774127|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:22:06.811211|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 180
+2016-11-06 19:22:06.855800|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 19:22:06.874390|INFO    |              |   |*** Time [MAINWINDOW]: 471
+2016-11-06 19:22:06.875393|INFO    |              |   |*** Time [INIT]: 472
+2016-11-06 19:22:06.890435|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 19:22:06.890435|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 19:22:07.175650|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=SinusBot&password=&channel=&channelpassword=
+2016-11-06 19:22:07.176152|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-06 19:22:07.177656|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 19:22:07.177656|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-06 19:22:07.263885|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:22:07.263885|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:22:07.438349|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:22:07.438349|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:22:07.438349|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-06 19:22:07.542125|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-06 19:22:07.542125|INFO    |ClientUI      |   |Checking for update
+2016-11-06 19:22:07.646904|INFO    |Update        |   |Checking for updates...
+2016-11-06 19:22:07.686509|DEVELOP |PktHandler    |   |Puzzle solve time: 7
+2016-11-06 19:22:08.729784|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-06 19:22:08.733795|INFO    |Newsticker    |   |Newsticker language change detected
+2016-11-06 19:22:08.734296|INFO    |Newsticker    |   |Newsticker next check: 
+2016-11-06 19:22:08.734296|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-06 19:22:08.746829|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-06 19:22:08.752846|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-06 19:22:08.753347|INFO    |PermManager   |   |Requesting permissions from server
+2016-11-06 19:22:09.087737|INFO    |Update        |   |Check license version: 1
+2016-11-06 19:22:09.089241|INFO    |LicenseViewer |   |License language: en
+2016-11-06 19:22:09.089241|INFO    |LicenseViewer |   |Requesting remote license for version 1 and language en
+2016-11-06 19:22:09.108291|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 19:22:09.108793|INFO    |              |   |No image, refusing to display
+2016-11-06 19:22:09.871321|INFO    |Newsticker    |   |Newsticker received for language en, expires on Sun Nov 6 13:52:09 2016, next check in 1800 seconds
+2016-11-06 19:22:09.882863|INFO    |LicenseViewer |   |Downloaded license file for version 1 and language en
+2016-11-06 19:23:55.352463|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-06 19:23:55.353467|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

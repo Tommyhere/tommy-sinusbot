@@ -1,0 +1,469 @@
+
+
+==================================================================================================================================
+
+2016-11-07 23:54:36.841233|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-07 23:54:36.841233|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-07 23:54:36.841233|INFO    |              |   |Using hardware aes
+2016-11-07 23:54:36.850301|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-07 23:54:36.892870|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-07 23:54:37.182113|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 23:54:37.182113|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 23:54:37.216135|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 202
+2016-11-07 23:54:37.258748|INFO    |Input         |   |Default monitoring enabled
+2016-11-07 23:54:37.276795|INFO    |              |   |*** Time [MAINWINDOW]: 438
+2016-11-07 23:54:37.277798|INFO    |              |   |*** Time [INIT]: 439
+2016-11-07 23:54:37.290867|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-07 23:54:37.290867|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-07 23:54:37.579493|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=bot%20boy&password=&cid=245&channelpassword=
+2016-11-07 23:54:37.580485|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-07 23:54:37.582491|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-07 23:54:37.582491|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-07 23:54:37.724613|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 23:54:37.724613|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 23:54:37.882646|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-07 23:54:37.882646|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-07 23:54:37.882646|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-07 23:54:37.963591|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-07 23:54:37.964594|INFO    |              |   |Statistics report: Not yet, next report on Fri Nov 25 13:37:58 2016
+2016-11-07 23:54:37.964594|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-07 23:54:38.096043|DEVELOP |PktHandler    |   |Puzzle solve time: 17
+2016-11-07 23:54:38.357710|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-07 23:54:38.360719|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-07 23:54:38.362256|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-07 23:54:39.443598|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-07 23:54:39.454126|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-07 23:54:39.455128|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-07 23:54:39.562944|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.609387|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-07 23:54:39.609889|INFO    |              |   |No image, refusing to display
+2016-11-07 23:54:39.774936|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.775436|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.776941|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.777442|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.777442|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.777442|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:39.790090|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-07 23:54:48.684996|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-07 23:57:21.287003|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-07 23:57:35.704838|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 00:09:37.265518|INFO    |              |   |Memory usage: 45.53 MiB
+2016-11-08 00:16:49.724366|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-08 00:18:27.631037|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 07. Super Mario World.mp3
+2016-11-08 00:21:25.682509|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 10. Slave.mp3
+2016-11-08 00:24:25.695035|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 04. Slave II.mp3
+2016-11-08 00:24:37.265303|INFO    |              |   |Memory usage: 45.92 MiB
+2016-11-08 00:26:13.819231|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 00:26:41.524089|INFO    |ClientUI      |1  |Ignored text message by Oryx: [URL]http://store.steampowered.com/app/333950/?snr=1_4_4__128[/URL]
+2016-11-08 00:27:42.924143|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 06. Wrist (Ft. Pusha T).mp3
+2016-11-08 00:31:09.098560|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: 07. Super Mario World.mp3
+2016-11-08 00:31:31.730202|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Week-FM Top 100:
+2016-11-08 00:31:32.383074|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Robbie Williams - Party Like A Russian
+2016-11-08 00:31:32.620208|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Week-FM Top 100:
+2016-11-08 00:31:33.698396|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Robbie Williams - Party Like A Russian
+2016-11-08 00:31:34.120955|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Week-FM Top 100:
+2016-11-08 00:31:35.257576|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Robbie Williams - Party Like A Russian
+2016-11-08 00:33:27.487932|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 00:33:39.520650|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Avicii &amp; Conrad Sewell - Taste The Feeling
+2016-11-08 00:36:13.851566|INFO    |ClientUI      |1  |Ignored text message by Tommy: [URL]https://join.me/704-366-235[/URL]
+2016-11-08 00:36:51.815911|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Jrgen Drews - Das Ist Der Moment
+2016-11-08 00:37:16.937010|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: !SUPERDANCE!
+2016-11-08 00:37:18.039053|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Armin Van Buuren - Giuseppe Ottaviani - Steph - No More Alone
+2016-11-08 00:37:34.006596|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: G-Eazy - Me, Myself &amp; I (feat. Bebe Rexha)
+2016-11-08 00:37:55.413857|INFO    |ClientUI      |1  |Ignored text message by Tommy: what do we hate?
+2016-11-08 00:37:55.480535|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 00:37:58.154779|INFO    |ClientUI      |1  |Ignored text message by Tommy: why do we hate them?
+2016-11-08 00:37:58.225640|INFO    |ClientUI      |1  |Ignored text message by bot boy: cuz they&apos;re black
+2016-11-08 00:38:05.054523|INFO    |ClientUI      |1  |Ignored text message by Oryx: what do we hate?
+2016-11-08 00:38:05.116689|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 00:38:08.110324|INFO    |ClientUI      |1  |Ignored text message by Oryx: why do we hate them?
+2016-11-08 00:38:08.172115|INFO    |ClientUI      |1  |Ignored text message by bot boy: cuz they&apos;re black
+2016-11-08 00:38:39.060000|INFO    |ClientUI      |1  |Ignored text message by Jamal: !what do we hate?
+2016-11-08 00:38:39.121186|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 00:38:40.728485|INFO    |ClientUI      |1  |Ignored text message by Jamal: kys
+2016-11-08 00:39:11.814014|INFO    |ClientUI      |1  |Ignored text message by Joel is a sex offender: what do we hate?
+2016-11-08 00:39:11.878698|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 00:39:25.570180|INFO    |ClientUI      |1  |Ignored text message by Joel is a sex offender: why do we hate them?
+2016-11-08 00:39:25.630786|INFO    |ClientUI      |1  |Ignored text message by bot boy: cuz they&apos;re black
+2016-11-08 00:39:37.265536|INFO    |              |   |Memory usage: 47.02 MiB
+2016-11-08 00:41:46.003831|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Hopsin - Mr. Jones
+2016-11-08 00:41:50.093346|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 00:42:16.558396|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 00:42:19.861341|INFO    |ClientUI      |1  |Ignored text message by Tommy: test123
+2016-11-08 00:42:19.922054|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:19.984101|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.045768|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.108492|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.172819|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.238844|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.303611|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.364547|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.424979|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.485631|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.549798|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.611195|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.672371|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.735039|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.796206|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.857640|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.918967|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:20.981131|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.041476|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.102145|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.163001|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.225167|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.287836|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.359023|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.425199|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.490873|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.557050|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.630244|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.693412|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.758084|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.824261|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.894074|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:21.972283|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.057009|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.154767|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.224956|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.290128|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.353296|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.427995|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.494413|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.557577|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.619240|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.688925|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.754098|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.816265|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.882440|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:22.945106|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.008274|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.072446|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.149651|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.216328|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.278494|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.341160|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.403828|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.473011|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.541898|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.611083|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.675253|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.741429|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.802592|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.862752|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.924416|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:23.986080|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.049249|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.115425|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.185611|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.281366|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.362080|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.432769|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.496939|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.557099|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.618268|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.687948|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.755628|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.819296|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.885475|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:24.965184|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.030859|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.096534|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.157195|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.239413|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.302161|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.366913|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.521324|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.642645|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.709324|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.780718|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.845391|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.915350|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:25.975511|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.037690|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.101359|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.167035|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.234723|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.299641|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.363828|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.433512|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.507799|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.576272|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.645957|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.723895|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.796086|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.865772|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:26.939468|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.002636|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.066806|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.138497|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.208183|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.274877|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.350076|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.412400|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.477410|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.547596|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.609260|INFO    |ClientUI      |1  |Ignored text message by bot boy: test123
+2016-11-08 00:42:27.657388|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 00:43:05.424790|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 00:43:08.160069|INFO    |ClientUI      |1  |Ignored text message by Tommy: guns go
+2016-11-08 00:43:08.217649|INFO    |ClientUI      |1  |Ignored text message by bot boy: boom boom
+2016-11-08 00:43:08.946774|INFO    |ClientUI      |1  |Ignored text message by Tommy: i go
+2016-11-08 00:43:09.003933|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2016-11-08 00:43:17.214112|INFO    |ClientUI      |1  |Ignored text message by Oryx: guns go
+2016-11-08 00:43:17.273266|INFO    |ClientUI      |1  |Ignored text message by bot boy: boom boom
+2016-11-08 00:43:18.476189|INFO    |ClientUI      |1  |Ignored text message by Oryx: i go
+2016-11-08 00:43:18.536048|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2016-11-08 00:43:22.985029|INFO    |ClientUI      |1  |Ignored text message by Tommy: i think the guns go
+2016-11-08 00:43:23.041745|INFO    |ClientUI      |1  |Ignored text message by bot boy: boom boom
+2016-11-08 00:43:23.676794|INFO    |ClientUI      |1  |Ignored text message by Oryx: i go
+2016-11-08 00:43:23.742479|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2016-11-08 00:43:31.950116|INFO    |ClientUI      |1  |Ignored text message by Oryx: where did the guns go?
+2016-11-08 00:43:32.013282|INFO    |ClientUI      |1  |Ignored text message by bot boy: boom boom
+2016-11-08 00:43:59.748517|INFO    |ClientUI      |1  |Ignored text message by Tommy: !roll
+2016-11-08 00:44:01.568375|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2016-11-08 00:44:01.625471|INFO    |ClientUI      |1  |Ignored text message by bot boy: Tommy just rolled a 20 and got a 9
+2016-11-08 00:44:20.305516|INFO    |ClientUI      |1  |Ignored text message by Andrei: !dice
+2016-11-08 00:44:20.377415|INFO    |ClientUI      |1  |Ignored text message by bot boy: Andrei just rolled a 20 and got a 9
+2016-11-08 00:44:26.375941|INFO    |ClientUI      |1  |Ignored text message by Andrei: !dice
+2016-11-08 00:44:26.438606|INFO    |ClientUI      |1  |Ignored text message by bot boy: Andrei just rolled a 20 and got a 14
+2016-11-08 00:45:12.192045|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Hopsin - My Love
+2016-11-08 00:45:34.071956|INFO    |ClientUI      |1  |Ignored text message by Tommy: !c4 create
+2016-11-08 00:45:34.129145|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Game created! Use &apos;!c4 join&apos; to join![/COLOR][/B]
+2016-11-08 00:45:38.934061|INFO    |ClientUI      |1  |Ignored text message by Oryx: !c4 join
+2016-11-08 00:45:38.990210|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx joined the game! One more is needed![/COLOR][/B]
+2016-11-08 00:46:26.244668|INFO    |ClientUI      |1  |Ignored text message by Andrei: !c4 join
+2016-11-08 00:46:26.303827|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Andrei joined the game![/COLOR][/B]
+2016-11-08 00:46:26.305832|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Game is startig now! Randomly choosing who starts![/COLOR][/B]
+2016-11-08 00:46:26.307836|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.309843|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.311346|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.311847|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.312348|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.315357|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:26.315858|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:46:26.356967|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx starts![/COLOR][/B]
+2016-11-08 00:46:26.359475|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Write &apos;!c4 place y&apos; to make your turn![/COLOR][/B]
+2016-11-08 00:46:40.836501|INFO    |ClientUI      |1  |Ignored text message by Oryx: !c4 place 3
+2016-11-08 00:46:40.899168|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.902180|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.903180|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.903680|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.909194|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.909194|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:46:40.909697|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:46:40.910699|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Andrei is next![/COLOR][/B]
+2016-11-08 00:46:45.758853|INFO    |ClientUI      |1  |Ignored text message by Andrei: !c4 place y
+2016-11-08 00:46:45.815993|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]There is no more space![/COLOR][/B]
+2016-11-08 00:47:13.785910|INFO    |ClientUI      |1  |Ignored text message by Andrei: !c4 place 7
+2016-11-08 00:47:13.843580|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.844065|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.849580|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.850582|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.851084|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.852089|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:13.852588|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:47:13.854091|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx is next![/COLOR][/B]
+2016-11-08 00:47:18.529780|INFO    |ClientUI      |1  |Ignored text message by Oryx: !c4 place 4
+2016-11-08 00:47:18.587544|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.588045|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.588547|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.589048|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.590552|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.591555|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:18.592056|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:47:18.592056|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Andrei is next![/COLOR][/B]
+2016-11-08 00:47:44.033116|INFO    |ClientUI      |1  |Ignored text message by Andrei: !c4 place 7
+2016-11-08 00:47:44.094794|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.096284|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.096786|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.097287|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.097789|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.097789|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:44.098791|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:47:44.098791|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx is next![/COLOR][/B]
+2016-11-08 00:47:50.405305|INFO    |ClientUI      |1  |Ignored text message by Oryx: !c4 place 2
+2016-11-08 00:47:50.464248|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.465752|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.466253|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.466253|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.466755|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.466755|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:47:50.478288|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:47:50.479288|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Andrei is next![/COLOR][/B]
+2016-11-08 00:48:07.984344|INFO    |ClientUI      |1  |Ignored text message by Andrei: !c4 place 1
+2016-11-08 00:48:08.065560|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.066062|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.067065|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.071074|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.077091|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.080098|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:08.080098|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:48:08.080600|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx is next![/COLOR][/B]
+2016-11-08 00:48:12.204756|INFO    |ClientUI      |1  |Ignored text message by Oryx: !c4 place 5
+2016-11-08 00:48:12.265959|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:12.266960|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:12.267965|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:12.267965|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:12.268464|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR][COLOR=#ff0000]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR][COLOR=#00ff00]⚫[/COLOR][COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:48:12.268464|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|1 |2 |3 |4 |5 |6 |7 |[/COLOR]
+2016-11-08 00:48:12.268965|INFO    |ClientUI      |1  |Ignored text message by bot boy: [B][COLOR=#1e7f39]Oryx wins the Game![/COLOR][/B]
+2016-11-08 00:48:12.269467|INFO    |ClientUI      |1  |Ignored text message by bot boy: [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]   [COLOR=#0000ff]|[/COLOR]
+2016-11-08 00:50:24.811933|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: ScHoolboy Q - Neva CHange (Ft. SZA)
+2016-11-08 00:50:51.942009|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 00:54:37.265433|INFO    |              |   |Memory usage: 37.19 MiB
+2016-11-08 00:55:55.394067|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Hopsin - No Fucks Given
+2016-11-08 00:58:41.647784|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 01:01:00.698977|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Hopsin - No Hope
+2016-11-08 01:05:56.873434|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: Hopsin - No Words (Skit)
+2016-11-08 01:07:33.712021|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: G-Eazy - Nothing To Me (feat. E-40 &amp; Keyshia Cole)
+2016-11-08 01:09:37.266127|INFO    |              |   |Memory usage: 37.05 MiB
+2016-11-08 01:12:11.771444|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-08 01:13:03.831025|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: G-Eazy - Of All Things (feat. Too $hort)
+2016-11-08 01:15:39.344192|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 01:16:37.846290|INFO    |ClientUI      |1  |Ignored text message by bot boy: wadup nigga we now playin: G-Eazy - One Of Them (feat. Big Sean)
+2016-11-08 01:17:14.605944|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 01:19:34.994565|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-08 01:22:24.878183|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 01:24:37.273453|INFO    |              |   |Memory usage: 40.53 MiB
+2016-11-08 01:39:37.265454|INFO    |              |   |Memory usage: 40.84 MiB
+2016-11-08 01:47:49.267006|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 01:49:21.452040|INFO    |ClientUI      |1  |Ignored text message by Aaron: what uip nigga
+2016-11-08 01:49:32.509172|INFO    |ClientUI      |1  |Ignored text message by Aaron: !shuffle
+2016-11-08 01:49:37.417989|INFO    |ClientUI      |1  |Ignored text message by Aaron: nigga you alive
+2016-11-08 01:49:48.695261|INFO    |ClientUI      |1  |Ignored text message by Tommy: did ujust
+2016-11-08 01:49:49.740639|INFO    |ClientUI      |1  |Ignored text message by Tommy: take my bot
+2016-11-08 01:49:55.998389|INFO    |ClientUI      |1  |Ignored text message by Aaron: What do we hate?
+                                                       
+2016-11-08 01:49:56.071505|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 01:49:57.136968|INFO    |ClientUI      |1  |Ignored text message by Tommy: guns go
+2016-11-08 01:49:57.208788|INFO    |ClientUI      |1  |Ignored text message by bot boy: boom boom
+2016-11-08 01:49:57.913770|INFO    |ClientUI      |1  |Ignored text message by Tommy: i go
+2016-11-08 01:49:57.991512|INFO    |ClientUI      |1  |Ignored text message by bot boy: bang bang
+2016-11-08 01:50:04.101826|INFO    |ClientUI      |1  |Ignored text message by Aaron: What do we hate?
+                                                       
+2016-11-08 01:50:04.162478|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 01:50:28.810113|INFO    |ClientUI      |1  |Ignored text message by Aaron: !yt [URL]https://www.youtube.com/watch?v=EmFSR2E4sCY[/URL]
+2016-11-08 01:50:35.161474|INFO    |ClientUI      |1  |Ignored text message by Aaron: !yt [URL]https://www.youtube.com/watch?v=EmFSR2E4sCY[/URL]
+2016-11-08 01:50:39.488624|INFO    |ClientUI      |1  |Ignored text message by Tommy: oryx
+2016-11-08 01:50:42.679888|INFO    |ClientUI      |1  |Ignored text message by Tommy: u wanna watch me write a story
+2016-11-08 01:50:48.917040|INFO    |ClientUI      |1  |Ignored text message by Tommy: y r u
+2016-11-08 01:50:51.375327|INFO    |ClientUI      |1  |Ignored text message by Tommy: watching a trump rally
+2016-11-08 01:50:55.266739|INFO    |ClientUI      |1  |Ignored text message by Tommy: im gonna
+2016-11-08 01:50:57.934267|INFO    |ClientUI      |1  |Ignored text message by Tommy: make my own story
+2016-11-08 01:51:07.177244|INFO    |ClientUI      |1  |Ignored text message by Tommy: i want to
+2016-11-08 01:51:07.338329|INFO    |ClientUI      |1  |Ignored text message by Aaron: !play [URL]https://www.youtube.com/watch?v=EmFSR2E4sCY[/URL]
+2016-11-08 01:51:08.333057|INFO    |ClientUI      |1  |Ignored text message by Tommy: write a book
+2016-11-08 01:51:13.022126|INFO    |ClientUI      |1  |Ignored text message by Tommy: its going to be a story about
+2016-11-08 01:51:15.589157|INFO    |ClientUI      |1  |Ignored text message by Aaron: !next
+2016-11-08 01:51:17.684329|INFO    |ClientUI      |1  |Ignored text message by Tommy: niggerboy
+2016-11-08 01:51:21.524660|INFO    |ClientUI      |1  |Ignored text message by Tommy: i havent
+2016-11-08 01:51:23.139261|INFO    |ClientUI      |1  |Ignored text message by Tommy: decided his name
+2016-11-08 01:51:26.181029|INFO    |ClientUI      |1  |Ignored text message by Tommy: no wait
+2016-11-08 01:51:27.386662|INFO    |ClientUI      |1  |Ignored text message by Tommy: its gonna be
+2016-11-08 01:51:28.635845|INFO    |ClientUI      |1  |Ignored text message by Tommy: Niggerboy
+2016-11-08 01:51:38.236264|INFO    |ClientUI      |1  |Ignored text message by Tommy: ink
+2016-11-08 01:51:38.886730|INFO    |ClientUI      |1  |Ignored text message by Tommy: link
+2016-11-08 01:51:43.588271|INFO    |ClientUI      |1  |Ignored text message by Oryx: [URL]https://www.youtube.com/watch?v=cxXUC1_U2mY[/URL]
+2016-11-08 01:51:44.061077|INFO    |ClientUI      |1  |Ignored text message by Oryx: [URL]https://www.youtube.com/watch?v=cxXUC1_U2mY[/URL]
+2016-11-08 01:51:53.872682|INFO    |ClientUI      |1  |Ignored text message by Tommy: MASSIVE
+2016-11-08 01:51:54.405155|INFO    |ClientUI      |1  |Ignored text message by Tommy: rally
+2016-11-08 01:52:39.999194|INFO    |ClientUI      |1  |Ignored text message by Aaron: !ytdl &lt;https://www.youtube.com/watch?v=EmFSR2E4sCY&gt;
+2016-11-08 01:52:51.705338|INFO    |ClientUI      |1  |Ignored text message by Aaron: !yt &quot;https://www.youtube.com/watch?v=EmFSR2E4sCY&quot;
+2016-11-08 01:53:14.501972|INFO    |ClientUI      |1  |Ignored text message by Aaron: !yt [URL]www.youtube.com/watch?v=EmFSR2E4sCY[/URL]
+2016-11-08 01:53:27.397956|INFO    |ClientUI      |1  |Ignored text message by Aaron: !play [URL]https://www.youtube.com/watch?v=EmFSR2E4sCY[/URL]
+2016-11-08 01:53:36.139442|INFO    |ClientUI      |1  |Ignored text message by Aaron: !play EmFSR2E4sCY
+2016-11-08 01:54:37.266511|INFO    |              |   |Memory usage: 41.02 MiB
+2016-11-08 01:57:50.703845|INFO    |ClientUI      |1  |Ignored text message by bot boy: what up nigga
+2016-11-08 02:02:32.233623|INFO    |ClientUI      |1  |Ignored text message by Joel: who do we hate?
+2016-11-08 02:09:37.266563|INFO    |              |   |Memory usage: 40.74 MiB
+2016-11-08 02:19:43.555808|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-08 02:19:46.825052|INFO    |ClientUI      |1  |Ignored text message by Tommy: what do we hate?
+2016-11-08 02:19:46.901019|INFO    |ClientUI      |1  |Ignored text message by bot boy: niggers
+2016-11-08 02:19:49.967227|INFO    |ClientUI      |1  |Ignored text message by Tommy: why do we hate them?
+2016-11-08 02:19:50.039473|INFO    |ClientUI      |1  |Ignored text message by bot boy: cuz they&apos;re black
+2016-11-08 02:21:12.618296|INFO    |ClientUI      |1  |Ignored text message by Tommy: its going down in history
+2016-11-08 02:21:22.580046|INFO    |ClientUI      |1  |Ignored text message by Tommy: the top 2 candidates for the 2016 US presidential election
+2016-11-08 02:21:29.913349|INFO    |ClientUI      |1  |Ignored text message by Tommy: a secretary of state who&apos;s committed multiple acts of treason
+2016-11-08 02:21:40.199098|INFO    |ClientUI      |1  |Ignored text message by Tommy: and a racist radical billionare who owns a casino in cuba
+2016-11-08 02:22:04.238994|INFO    |ClientUI      |1  |Ignored text message by Tommy: he brings it up
+2016-11-08 02:22:05.316134|INFO    |ClientUI      |1  |Ignored text message by Tommy: eveyr speedh
+2016-11-08 02:22:29.283010|INFO    |ClientUI      |1  |Ignored text message by Tommy: oryx
+2016-11-08 02:24:37.268776|INFO    |              |   |Memory usage: 41.06 MiB
+2016-11-08 02:25:42.949257|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 02:25:56.900046|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 02:26:25.694690|INFO    |ClientUI      |1  |Ignored text message by bot boy: undefined
+2016-11-08 02:26:28.221049|INFO    |ClientUI      |1  |Ignored text message by Tommy: oryx
+2016-11-08 02:26:48.567243|INFO    |ClientUI      |1  |Ignored text message by Tommy: duck
+2016-11-08 02:27:04.188625|INFO    |ClientUI      |1  |Ignored text message by Chcolatefudge: tommy
+2016-11-08 02:27:07.898650|INFO    |ClientUI      |1  |Ignored text message by Tommy: thats me
+2016-11-08 02:27:13.888673|INFO    |ClientUI      |1  |Ignored text message by Chcolatefudge: lies
+2016-11-08 02:27:52.797842|INFO    |ClientUI      |1  |Ignored text message by Tommy: ok night
+2016-11-08 02:27:57.108226|INFO    |ClientUI      |1  |Ignored text message by Chcolatefudge: night
+2016-11-08 02:39:37.268142|INFO    |              |   |Memory usage: 41.51 MiB
+2016-11-08 02:54:37.265482|INFO    |              |   |Memory usage: 41.89 MiB
+2016-11-08 03:09:37.266118|INFO    |              |   |Memory usage: 42.25 MiB
+2016-11-08 03:11:06.040712|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-08 03:11:06.068224|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2016-11-08 06:09:58.506381|INFO    |              |   |Memory usage: 38.75 MiB
+2016-11-08 06:09:58.787044|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run (wait): 10730353 ms 2000
+2016-11-08 06:09:58.787044|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run: 10730354 ms 2000
+2016-11-08 06:10:07.094139|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-08 06:10:07.096112|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-08 06:10:07.770230|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-08 06:10:07.897567|DEVELOP |PktHandler    |   |Puzzle solve time: 7
+2016-11-08 06:10:08.143942|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-08 06:10:08.145945|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 06:10:08.177028|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-08 06:10:08.267884|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-08 06:10:08.302968|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-08 06:10:08.316988|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 06:10:08.316988|INFO    |              |   |No image, refusing to display
+2016-11-08 06:10:08.597789|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-08 06:10:08.825395|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-08 06:24:58.499937|INFO    |              |   |Memory usage: 39.81 MiB
+2016-11-08 06:39:58.501524|INFO    |              |   |Memory usage: 39.81 MiB
+2016-11-08 06:40:25.609858|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-08 06:40:25.610861|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2016-11-08 09:39:20.503400|INFO    |              |   |Memory usage: 39.82 MiB
+2016-11-08 09:39:21.265294|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run (wait): 10733581 ms 2000
+2016-11-08 09:39:21.288355|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run: 10733604 ms 2000
+2016-11-08 09:39:29.001777|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-08 09:39:29.002810|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-08 09:39:29.690314|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-08 09:39:29.847988|DEVELOP |PktHandler    |   |Puzzle solve time: 7
+2016-11-08 09:39:30.146326|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-08 09:39:30.148291|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 09:39:30.166339|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-08 09:39:30.297840|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-08 09:39:30.298843|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-08 09:39:30.390085|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 09:39:30.390085|INFO    |              |   |No image, refusing to display
+2016-11-08 09:39:30.457548|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-08 09:39:30.953527|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-08 09:54:20.500962|INFO    |              |   |Memory usage: 39.90 MiB
+2016-11-08 10:09:20.501291|INFO    |              |   |Memory usage: 39.90 MiB
+2016-11-08 10:09:48.260914|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-08 10:09:48.262408|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
+2016-11-08 12:00:08.843368|INFO    |              |   |Memory usage: 39.93 MiB
+2016-11-08 12:00:08.861415|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run (wait): 6619669 ms 2000
+2016-11-08 12:00:08.863420|INFO    |ClientUI      |   |LIMSTOPWATCH RecorderThread::run: 6619671 ms 2000
+2016-11-08 12:00:20.612039|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-08 12:00:20.612920|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-08 12:00:21.138568|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-08 12:00:21.267278|DEVELOP |PktHandler    |   |Puzzle solve time: 7
+2016-11-08 12:00:21.507212|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-08 12:00:21.509094|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 12:00:21.525168|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-08 12:00:21.630705|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-08 12:00:21.630705|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-08 12:00:21.681229|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-08 12:00:21.681229|INFO    |              |   |No image, refusing to display
+2016-11-08 12:00:21.764068|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-08 12:00:22.282101|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-08 12:03:09.617892|INFO    |Input         |   |Default monitoring disabled
+2016-11-08 12:03:09.617892|INFO    |Input         |   |Default monitoring enabled
+2016-11-08 12:03:36.610798|INFO    |Input         |   |Default monitoring disabled
+2016-11-08 12:03:36.610798|INFO    |Input         |   |Default monitoring enabled
+2016-11-08 12:08:00.537231|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-08 12:08:00.538234|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

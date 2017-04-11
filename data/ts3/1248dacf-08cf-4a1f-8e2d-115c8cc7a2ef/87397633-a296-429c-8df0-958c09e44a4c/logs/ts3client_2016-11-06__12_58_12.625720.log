@@ -1,0 +1,30 @@
+
+
+==================================================================================================================================
+
+2016-11-06 18:58:12.626723|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 18:58:12.626723|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 18:58:12.626723|INFO    |              |   |Using hardware aes
+2016-11-06 18:58:12.644272|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 18:58:12.776622|INFO    |              |   |*** Time [ICONMANGER]: 102
+2016-11-06 18:58:12.777624|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 18:58:13.036813|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 18:58:13.036813|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 18:58:13.088952|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 162
+2016-11-06 18:58:14.684209|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 18:58:14.706268|INFO    |              |   |*** Time [MAINWINDOW]: 2083
+2016-11-06 18:58:14.707270|INFO    |              |   |*** Time [INIT]: 2085
+2016-11-06 18:58:14.707270|INFO    |ClientUI      |   |*** Time [SQLITE_CONVERTER]: 384
+2016-11-06 18:58:14.724316|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 18:58:14.724817|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 18:58:15.007569|INFO    |ClientUI      |   |ts3server: 127.0.0.1?port=9987&nickname=SinusBot&password=&channel=&channelpassword=
+2016-11-06 18:58:15.008071|INFO    |ClientUI      |1  |Connect to server: 127.0.0.1
+2016-11-06 18:58:15.010076|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 18:58:15.010076|INFO    |ClientUI      |1  |Initiating connection: 127.0.0.1:9987 127.0.0.1
+2016-11-06 18:58:15.225649|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 18:58:15.225649|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 18:58:15.358503|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 18:58:15.358503|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 18:58:15.671335|INFO    |ClientUI      |   |Last update check was: Never
+2016-11-06 18:58:15.671335|INFO    |ClientUI      |   |Checking for update
+2016-11-06 18:58:15.741522|INFO    |Update        |   |Checking for updates...

@@ -1,0 +1,76 @@
+
+
+==================================================================================================================================
+
+2016-11-06 23:22:42.907397|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 23:22:42.907397|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 23:22:42.907397|INFO    |              |   |Using hardware aes
+2016-11-06 23:22:42.916421|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 23:22:42.974074|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 23:22:43.193157|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:22:43.193157|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:22:43.224741|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 119
+2016-11-06 23:22:43.261338|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 23:22:43.276378|INFO    |              |   |*** Time [MAINWINDOW]: 371
+2016-11-06 23:22:43.277381|INFO    |              |   |*** Time [INIT]: 372
+2016-11-06 23:22:43.289413|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 23:22:43.289413|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 23:22:43.577680|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=_i%20hate%20niggers&password=&channel=&channelpassword=
+2016-11-06 23:22:43.578181|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-06 23:22:43.580187|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 23:22:43.580187|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-06 23:22:43.666917|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:22:43.666917|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:22:43.850405|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 23:22:43.850405|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 23:22:43.850405|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-06 23:22:43.967717|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-06 23:22:43.968218|INFO    |              |   |Statistics report: Not yet, next report on Fri Nov 25 13:37:58 2016
+2016-11-06 23:22:43.968720|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-06 23:22:44.120123|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2016-11-06 23:22:44.394352|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-06 23:22:44.410395|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-06 23:22:44.412902|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 23:22:45.536390|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-06 23:22:45.542406|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-06 23:22:45.543408|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-06 23:22:45.669243|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.671750|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-06 23:22:45.682278|INFO    |ClientUI      |   |Request already running, aborting avatar request
+2016-11-06 23:22:45.720379|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 23:22:45.720379|INFO    |              |   |No image, refusing to display
+2016-11-06 23:22:45.887325|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.893842|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.894844|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.897352|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.900362|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.900860|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.908881|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.910886|WARNING |ClientUI      |   |Error, avatar md5 does not match. Cannot display image.2f4f639a794b1a7057560d4c42bdf5e3 <-> 01c0e4b94d55ab354c5d67886175b8b8
+2016-11-06 23:22:45.921915|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:22:45.926428|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: what up nigga
+2016-11-06 23:24:53.474737|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: undefined
+2016-11-06 23:24:57.781693|INFO    |ClientUI      |1  |Ignored text message by Tommy: what do we hate?
+2016-11-06 23:24:57.850376|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: niggers
+2016-11-06 23:24:59.832649|INFO    |ClientUI      |1  |Ignored text message by Tommy: why do we hate them
+2016-11-06 23:25:02.966485|INFO    |ClientUI      |1  |Ignored text message by Tommy: why do we hate them?
+2016-11-06 23:25:03.036672|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: cuz they&apos;re black
+2016-11-06 23:25:10.163630|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 23:25:13.724617|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:25:20.765832|INFO    |ClientUI      |1  |Ignored text message by Tommy: .jail
+2016-11-06 23:25:23.256456|INFO    |ClientUI      |1  |Ignored text message by Tommy: .jail cameron
+2016-11-06 23:25:33.084606|INFO    |ClientUI      |1  |Ignored text message by Tommy: o ya
+2016-11-06 23:25:36.736320|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:25:39.823532|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 23:25:46.914394|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:25:50.492927|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 23:25:52.368415|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 23:26:09.957311|INFO    |ClientUI      |1  |Ignored text message by Duck On Quack: !goaway
+2016-11-06 23:26:21.399251|INFO    |ClientUI      |1  |Ignored text message by Duck On Quack: dont work
+2016-11-06 23:26:28.845573|INFO    |ClientUI      |1  |Ignored text message by Duck On Quack: !come
+2016-11-06 23:26:38.416515|INFO    |ClientUI      |1  |Ignored text message by Duck On Quack: !goaway
+2016-11-06 23:27:05.244392|INFO    |ClientUI      |1  |Ignored text message by Duck On Quack: !goaway
+2016-11-06 23:27:25.394615|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadap
+2016-11-06 23:27:28.448237|INFO    |ClientUI      |1  |Ignored text message by _i hate niggers: wadup nigga we now playin: 01. illuminatro.mp3
+2016-11-06 23:27:47.553431|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-06 23:27:47.553431|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

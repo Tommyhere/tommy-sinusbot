@@ -1,0 +1,60 @@
+
+
+==================================================================================================================================
+
+2016-11-06 19:30:14.334025|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 19:30:14.334025|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 19:30:14.334025|INFO    |              |   |Using hardware aes
+2016-11-06 19:30:14.345555|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 19:30:14.391678|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 19:30:14.562633|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:30:14.562633|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:30:14.595721|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 112
+2016-11-06 19:30:14.639337|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 19:30:14.657886|INFO    |              |   |*** Time [MAINWINDOW]: 326
+2016-11-06 19:30:14.658888|INFO    |              |   |*** Time [INIT]: 328
+2016-11-06 19:30:14.673929|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 19:30:14.674430|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 19:30:14.959200|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=SinusBot&password=&channel=&channelpassword=
+2016-11-06 19:30:14.959689|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-06 19:30:14.961694|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 19:30:14.961694|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-06 19:30:15.101066|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:30:15.101066|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:30:15.276031|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:30:15.276031|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:30:15.276532|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-06 19:30:15.429438|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-06 19:30:15.429939|INFO    |ClientUI      |   |Checking for update
+2016-11-06 19:30:15.550260|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2016-11-06 19:30:15.557780|INFO    |Update        |   |Checking for updates...
+2016-11-06 19:30:16.625620|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-06 19:30:16.701322|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-06 19:30:16.701322|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-06 19:30:16.703327|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 19:30:16.720372|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-06 19:30:16.727391|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-06 19:30:16.728393|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-06 19:30:16.834676|INFO    |Update        |   |Check license version: 1
+2016-11-06 19:30:16.836181|INFO    |LicenseViewer |   |License language: en
+2016-11-06 19:30:16.836682|INFO    |LicenseViewer |   |Found cached license for version 1 and language en
+2016-11-06 19:30:16.921908|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 19:30:16.921908|INFO    |              |   |No image, refusing to display
+2016-11-06 19:30:18.661488|INFO    |ClientUI      |1  |Ignored text message by Tommy: !di e
+2016-11-06 19:30:19.821072|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2016-11-06 19:30:19.880240|INFO    |ClientUI      |1  |Ignored text message by SinusBot: Tommy just rolled a 4 and got a 3
+2016-11-06 19:33:15.618141|INFO    |ClientUI      |1  |Ignored text message by SinusBot: wadup nigga we now playin: 02. Flexicution.mp3
+2016-11-06 19:33:44.552074|INFO    |ClientUI      |1  |Ignored text message by SinusBot: wadup nigga we now playin: ScHoolboy Q - Str8 Ballin
+2016-11-06 19:33:51.000753|INFO    |ClientUI      |1  |Ignored text message by SinusBot: wadup nigga we now playin: ScHoolboy Q - Blank Face (Ft. Anderson Paak)
+2016-11-06 19:33:56.826248|INFO    |ClientUI      |1  |Ignored text message by SinusBot: wadup nigga we now playin: ScHoolboy Q - JoHn Muir
+2016-11-06 19:34:17.894021|INFO    |ClientUI      |1  |Ignored text message by the reales nigga: wadup nigga we now playin: G-Eazy - Calm Down
+2016-11-06 19:36:08.114201|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 19:36:12.481172|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 19:36:18.419015|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:36:37.655727|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 19:36:40.817121|INFO    |ClientUI      |1  |Ignored text message by Tommy: !come
+2016-11-06 19:36:45.056966|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:37:33.966858|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:37:35.912528|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:37:42.341129|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-06 19:37:42.342131|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0

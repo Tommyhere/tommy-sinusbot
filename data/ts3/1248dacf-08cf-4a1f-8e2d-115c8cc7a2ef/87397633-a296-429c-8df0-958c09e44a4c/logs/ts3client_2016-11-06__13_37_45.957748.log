@@ -1,0 +1,50 @@
+
+
+==================================================================================================================================
+
+2016-11-06 19:37:45.959253|INFO    |              |   |TeamSpeak 3 Client 3.0.19.4 (2016-07-14 10:16:58)
+2016-11-06 19:37:45.959754|INFO    |              |   |SystemInformation: Windows 10 (14393) x64 (AMD or Intel) Binary: 64bit
+2016-11-06 19:37:45.959754|INFO    |              |   |Using hardware aes
+2016-11-06 19:37:45.972286|DEBUG   |Direct Sound  |   |setting timer resolution to 1ms
+2016-11-06 19:37:46.023924|INFO    |              |   |Loading plugin: sinusbot_plugin
+2016-11-06 19:37:46.275594|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:37:46.275594|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:37:46.308681|INFO    |              |   |*** Time [SERVERVIEWMANAGER]: 109
+2016-11-06 19:37:46.353301|INFO    |Input         |   |Default monitoring enabled
+2016-11-06 19:37:46.370345|INFO    |              |   |*** Time [MAINWINDOW]: 415
+2016-11-06 19:37:46.370847|INFO    |              |   |*** Time [INIT]: 415
+2016-11-06 19:37:46.386388|INFO    |ClientUI      |   |Qt version: 5.5.1
+2016-11-06 19:37:46.386889|INFO    |ClientUI      |   |Using configuration location: C:\SinusBot\data\/ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c/\settings.db
+2016-11-06 19:37:46.671145|INFO    |ClientUI      |   |ts3server: 63.251.20.99?port=17000&nickname=the%20reales%20nigga&password=&channel=&channelpassword=
+2016-11-06 19:37:46.671647|INFO    |ClientUI      |1  |Connect to server: 63.251.20.99
+2016-11-06 19:37:46.674153|INFO    |ClientUI      |1  |Blacklist check ok
+2016-11-06 19:37:46.674153|INFO    |ClientUI      |1  |Initiating connection: 63.251.20.99:17000 63.251.20.99
+2016-11-06 19:37:46.755871|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:37:46.755871|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:37:46.914293|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - enter
+2016-11-06 19:37:46.914293|DEVELOP |Windows Audio Session|   |DeviceDeleteList::waitForDeletes - leave
+2016-11-06 19:37:46.914794|INFO    |PreProSpeex   |1  |Speex version: speex-1.2beta3
+2016-11-06 19:37:46.991498|INFO    |ClientUI      |   |Last update check was: Sun Jan 1 00:00:01 2017
+2016-11-06 19:37:46.991498|INFO    |ClientUI      |   |Checking for update
+2016-11-06 19:37:47.071711|INFO    |Update        |   |Checking for updates...
+2016-11-06 19:37:47.111317|DEVELOP |PktHandler    |   |Puzzle solve time: 6
+2016-11-06 19:37:48.130528|INFO    |ClientUI      |1  |Connect status: Connecting
+2016-11-06 19:37:48.133536|INFO    |ClientUI      |1  |Connect status: Connected
+2016-11-06 19:37:48.135040|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 19:37:48.264384|INFO    |Newsticker    |   |Newsticker next check: Sun Jan 1 00:00:01 2017
+2016-11-06 19:37:48.264384|INFO    |ClientUI      |1  |Connect status: Establishing connection
+2016-11-06 19:37:48.270901|INFO    |ClientUI      |1  |Connect status: Connection established
+2016-11-06 19:37:48.271903|INFO    |PermManager   |   |Loading permissions from cache
+2016-11-06 19:37:48.355627|INFO    |Update        |   |Check license version: 1
+2016-11-06 19:37:48.356630|INFO    |LicenseViewer |   |License language: en
+2016-11-06 19:37:48.357134|INFO    |LicenseViewer |   |Found cached license for version 1 and language en
+2016-11-06 19:37:48.366656|INFO    |              |   |Failed to read image C:/SinusBot/data//ts3/1248dacf-08cf-4a1f-8e2d-115c8cc7a2ef/87397633-a296-429c-8df0-958c09e44a4c//cache/remote/68foUjab96rtXBGXsqdtT3X93YYJDmDrPri2vHjGbXyUoVEINjSRWTHahzeNqdqP7loOqrNuOE2WQwSGDr0fnw==
+2016-11-06 19:37:48.366656|INFO    |              |   |No image, refusing to display
+2016-11-06 19:37:58.872315|INFO    |              |   |Statistics report: First run, report later in 1-30 days
+2016-11-06 19:37:58.872315|INFO    |              |   |Statistics report: Setting next report date to: Fri Nov 25 13:37:58 2016
+2016-11-06 19:38:04.681771|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:38:07.232986|INFO    |ClientUI      |1  |Ignored text message by Tommy: !goaway
+2016-11-06 19:38:17.432722|INFO    |ClientUI      |1  |Ignored text message by Tommy: !dice
+2016-11-06 19:38:17.489373|INFO    |ClientUI      |1  |Ignored text message by the reales nigga: Tommy just rolled a 4 and got a 3
+2016-11-06 19:39:12.505954|INFO    |ClientUI      |1  |Connect status: Disconnected
+2016-11-06 19:39:12.506458|INFO    |ClientUI      |1  |Disconnected or forced to leave, want autoreconnect = 0
